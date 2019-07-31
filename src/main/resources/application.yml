@@ -1,0 +1,8 @@
+spring:
+  redis:
+    database: 0
+    host: 120.79.154.128
+    port: 7020
+    password: wjufeKOn4Ca0PlX7
+server:
+  port: 7000
